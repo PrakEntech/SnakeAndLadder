@@ -2,12 +2,10 @@ from tkinter import *
 import tkinter.font as font
 from PIL import ImageTk,Image
 from random import randint
-#Width - 33, 9,15,9
 root = Tk()
 root.attributes("-fullscreen", False)
 root.title('Snake And Ladder')
 root.configure(bg='Black')
-'''#1F3247'''
 root.iconbitmap(None)
 root.geometry("343x400")
 root.resizable(height = 0, width = 0)
@@ -147,4 +145,3 @@ label['font'] = font.Font(size=14)
 label.place(x=110,y=370)
 
 root.mainloop()
-
