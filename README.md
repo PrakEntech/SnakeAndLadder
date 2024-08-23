@@ -38,7 +38,7 @@ This is a Python implementation of the classic Snake and Ladder board game using
 
 ## Usage
 
-- **Starting the Game**: When you run the `snake_and_ladder.py` script, the game window will open. Players take turns clicking the dice button to move their pieces on the board.
+- **Starting the Game**: When you run the `test.py` script, the game window will open. Players take turns clicking the dice button to move their pieces on the board.
 - **Game Rules**: The game follows the traditional rules of Snake and Ladder. Ladders will move you up, and snakes will bring you down. Rolling a 6 allows you to roll again.
 
 ## Code Overview
