@@ -33,7 +33,7 @@ This is a Python implementation of the classic Snake and Ladder board game using
 
 3. **Run the Game**:
    ```bash
-   python snake_and_ladder.py
+   python test.py
    ```
 
 ## Usage
